@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d1117;
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 30px;
+}
+
+#display {
+  font-size: 2.5em;
+  background: #161b22;
+  padding: 20px 40px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.start { background: #2ea043; color: white; }
+.stop  { background: #f85149; color: white; }
+.reset { background: #58a6ff; color: white; }
